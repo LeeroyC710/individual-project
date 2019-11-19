@@ -1,0 +1,14 @@
+-- USE DESCRIBE TO SEE THE TABLES OR PRESENT THE TABLES AT HAND
+<-- DROP to delete the tables 
+
+-->>select * from movies limit 3; (READ DML)--->>
+<<--to VIEW a table we use SELECT Statement-->> 
+<<--CREATE is used in DDL-->>  C
+<<--SHOW/DESCRIBE in DDL-->>   R
+<<--ALTER/ADD/REMOVE in DDL--> U
+<<--Deleting we use DROP ->>   D
+
+<<--INSERT INTO-->>DML>>C
+<<--SELECT INTO-->DML--> R
+<<--UPDATE-->>DML -->>  U
+<<--DELETE -->> DML --> D

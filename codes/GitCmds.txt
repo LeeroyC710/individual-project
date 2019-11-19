@@ -1,0 +1,6 @@
+git commands 
+
+cd - directory 
+ls -a ------------moving away from it (rm -rf)
+Vim .config
+ESC :q!
