@@ -1,0 +1,37 @@
+git commands 
+
+cd - directory 
+ls -a ------------moving away from it (rm -rf) ls stands for lists
+Vim .config
+
+ESC :q!
+
+git add .    - staging 
+
+git push -u origin master >>> push changes to the repository 
+
+git commit -m  "{records changes to the repository}"
+
+git status - how do to know what files have been staged or not staged
+
+.gitignore >>>> this would ignore all the files you don't need for example .txt 
+
+step 1: rm -rf .git/ >>>>moving away from it 
+
+step2: git init   >>>>initialising 
+
+step3: git add .
+
+step4: git commit -m "added repos"
+
+step5: git remote add origin https://github.com/LeeroyC710/individual-project.git
+
+step6: git push -u origin master
+
+when people allow changes you need to use pull to avoid confusion: 
+git pull [REMOTE] [REMOTE BRANCH]
+
+
+
+
+

@@ -1,0 +1,5 @@
+>>>pdb.set_trace() allows you to set a point in your code where you want debugging to begin
+
+>>>Use n followed by enter to go to the next line
+>>>Use q followed by enter to quit the debugger
+>>>Use p followed by enter to print the value of variables
